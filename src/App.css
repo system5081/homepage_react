@@ -91,3 +91,30 @@ nav ul li a:hover {
   #skill button {
     margin-bottom: 100px;
   }
+
+  .logo{
+    background-color:transparent;/* 背景色を透明色に */
+    margin-top: 7px;
+    font-size: 25px;
+    border: none;
+    outline: none;
+  }
+  .apptitle{
+    text-decoration: none;
+    color: #000000;
+  }
+  .apptitle:hover{
+    color: #000000;  
+  }
+  .center-col{
+    margin-left: 0.01rem;
+    margin-right: 0.01rem;
+  }
+  .center-col2{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    text-align: left;
+  }
+  .test{
+    background-color: #d3d3d3;
+  }
